@@ -1,0 +1,238 @@
+id,country,expectancy,rounded_expectancy,continent
+1,Monaco,86.6107,87,Europe
+2,San Marino,85.9248,86,Europe
+3,Hong Kong,85.7686,86,Asia
+4,Japan,85.0012,85,Asia
+5,Republic of Korea,84.5348,85,Asia
+6,Saint Barthélemy,84.5153,85,North America
+7,Andorra,84.3305,84,Europe
+8,French Polynesia,84.3117,84,Oceania
+9,Switzerland,84.2293,84,Europe
+10,Australia,84.2135,84,Oceania
+11,Italy,84.0285,84,Europe
+12,Singapore,83.9981,84,Asia
+13,Spain,83.9598,84,Europe
+14,Liechtenstein,83.928,84,Europe
+15,Réunion,83.8039,84,Africa
+16,Gibraltar,83.7773,84,Europe
+17,Malta,83.6277,84,Europe
+18,Norway,83.6072,84,Europe
+19,France,83.5804,84,Europe
+20,Sweden,83.5764,84,Europe
+21,Guernsey,83.5139,84,Europe
+22,Macao,83.4152,83,Asia
+23,Holy See,83.2871,83,Europe
+24,United Arab Emirates,83.235,83,Asia
+25,Iceland,83.1526,83,Europe
+26,Martinique,82.8924,83,North America
+27,Canada,82.8834,83,North America
+28,Israel,82.7736,83,Asia
+29,Ireland,82.7453,83,Europe
+30,Portugal,82.7165,83,Europe
+31,Qatar,82.6797,83,Asia
+32,Bermuda,82.6624,83,North America
+33,Luxembourg,82.4941,82,Europe
+34,Netherlands,82.4485,82,Europe
+35,Belgium,82.4323,82,Europe
+36,Guadeloupe,82.403,82,North America
+37,New Zealand,82.3882,82,Oceania
+38,Austria,82.2911,82,Europe
+39,Denmark,82.2452,82,Europe
+40,Finland,82.2437,82,Europe
+41,Greece,82.2247,82,Europe
+42,Puerto Rico,82.0843,82,North America
+43,Cyprus,81.9911,82,Asia
+44,Slovenia,81.9359,82,Europe
+45,Germany,81.707,82,Europe
+46,United Kingdom,81.5995,82,Europe
+47,Bahrain,81.5792,82,Asia
+48,Chile,81.5386,82,South America
+49,Maldives,81.5081,82,Asia
+50,Isle of Man,81.2226,81,Europe
+51,Costa Rica,81.1907,81,North America
+52,Taiwan,80.9415,81,Asia
+53,Kuwait,80.7791,81,Asia
+54,Cayman Islands,80.7174,81,North America
+55,Saint Martin (French part),80.6457,81,North America
+56,Faroe Islands,80.6002,81,Europe
+57,Oman,80.4512,80,Asia
+58,Czechia,80.1069,80,Europe
+59,Jersey,79.9865,80,Europe
+60,Panama,79.9571,80,North America
+61,Albania,79.9533,80,Europe
+62,Anguilla,79.6697,80,North America
+63,United States of America,79.6135,80,North America
+64,Falkland Islands (Malvinas),79.5874,80,South America
+65,Estonia,79.4762,79,Europe
+66,Saudi Arabia,79.1953,79,Asia
+67,Northern Mariana Islands,79.0881,79,Oceania
+68,New Caledonia,79.068,79,Oceania
+69,Poland,78.9807,79,Europe
+70,Croatia,78.9154,79,Europe
+71,Wallis and Futuna Islands,78.8974,79,Oceania
+72,Slovakia,78.654,79,Europe
+73,Uruguay,78.4541,78,South America
+74,Cuba,78.4474,78,North America
+75,Kosovo,78.4216,78,Europe
+76,China,78.3723,78,Asia
+77,Turks and Caicos Islands,78.339,78,North America
+78,Bosnia and Herzegovina,78.2371,78,Europe
+79,Jordan,78.1311,78,Asia
+80,Peru,78.1172,78,South America
+81,Colombia,78.0938,78,South America
+82,Lebanon,78.0838,78,Asia
+83,Iran,78.0506,78,Asia
+84,Antigua and Barbuda,77.9414,78,North America
+85,Sri Lanka,77.8539,78,Asia
+86,Türkiye,77.8239,78,Asia
+87,"Bonaire, Sint Eustatius and Saba",77.782,78,North America
+88,Ecuador,77.7572,78,South America
+89,Argentina,77.6894,78,South America
+90,North Macedonia,77.6759,78,Europe
+91,Guam,77.6264,78,Oceania
+92,British Virgin Islands,77.6061,78,North America
+93,Montenegro,77.4339,77,Europe
+94,French Guiana,77.3658,77,South America
+95,Hungary,77.3326,77,Europe
+96,Tokelau,77.288,77,Oceania
+97,Curaçao,77.172,77,North America
+98,Serbia,77.1387,77,Europe
+99,Saint Helena,77.1264,77,Africa
+100,Saint Pierre and Miquelon,77.1108,77,North America
+101,Malaysia,76.987,77,Asia
+102,Tunisia,76.9033,77,Africa
+103,Thailand,76.8247,77,Asia
+104,Sint Maarten,76.6965,77,North America
+105,Algeria,76.6866,77,Africa
+106,Aruba,76.6415,77,North America
+107,Barbados,76.4917,76,North America
+108,Montserrat,76.4891,76,North America
+109,Latvia,76.4768,76,Europe
+110,Mayotte,76.4241,76,Africa
+111,Cabo Verde,76.3971,76,Africa
+112,Lithuania,76.3216,76,Europe
+113,Romania,76.2453,76,Europe
+114,Brazil,76.1999,76,South America
+115,Armenia,76.0123,76,Asia
+116,Bulgaria,75.9612,76,Europe
+117,United States Virgin Islands,75.9255,76,North America
+118,Morocco,75.6825,76,Africa
+119,Brunei Darussalam,75.6685,76,Asia
+120,Cook Islands,75.6537,76,Oceania
+121,Grenada,75.5184,76,North America
+122,Mexico,75.4456,75,North America
+123,Mauritius,75.2708,75,Africa
+124,Nicaragua,75.2674,75,North America
+125,Bangladesh,75.195,75,Asia
+126,Viet Nam,74.8813,75,Asia
+127,Ukraine,74.8652,75,Europe
+128,Bahamas,74.863,75,North America
+129,Georgia,74.8164,75,Asia
+130,Belarus,74.7927,75,Europe
+131,Azerbaijan,74.7322,75,Asia
+132,Kazakhstan,74.6708,75,Asia
+133,Paraguay,74.1107,74,South America
+134,Dominican Republic,73.9898,74,North America
+135,Belize,73.9035,74,North America
+136,Suriname,73.8986,74,South America
+137,North Korea,73.8594,74,Asia
+138,Trinidad and Tobago,73.7474,74,North America
+139,Bhutan,73.5278,74,Asia
+140,Russian Federation,73.5216,74,Europe
+141,Tonga,73.2256,73,Oceania
+142,Honduras,73.2184,73,North America
+143,Libya,73.1912,73,Africa
+144,Seychelles,73.1404,73,Africa
+145,American Samoa,73.1256,73,Oceania
+146,Palestine,73.1011,73,Asia
+147,Saint Lucia,72.9989,73,North America
+148,Syrian Arab Republic,72.9899,73,Asia
+149,Guatemala,72.8947,73,North America
+150,Venezuela,72.8418,73,South America
+151,Uzbekistan,72.6562,73,Asia
+152,Iraq,72.5339,73,Asia
+153,El Salvador,72.5196,73,North America
+154,India,72.4848,72,Asia
+155,Saint Kitts and Nevis,72.4247,72,North America
+156,Mongolia,72.2377,72,Asia
+157,Tajikistan,72.0521,72,Asia
+158,Egypt,71.9868,72,Africa
+159,Kyrgyzstan,71.9687,72,Asia
+160,Samoa,71.9484,72,Oceania
+161,Vanuatu,71.8434,72,Oceania
+162,Western Sahara,71.7797,72,Africa
+163,Jamaica,71.7296,72,North America
+164,Saint Vincent and the Grenadines,71.5134,72,North America
+165,Republic of Moldova,71.4672,71,Europe
+166,Dominica,71.4512,71,North America
+167,Indonesia,71.4377,71,Asia
+168,Cambodia,70.9695,71,Asia
+169,Nepal,70.8968,71,Asia
+170,Solomon Islands,70.8342,71,Oceania
+171,Guyana,70.4468,70,South America
+172,Turkmenistan,70.3341,70,Asia
+173,Greenland,70.3159,70,North America
+174,Niue,70.2223,70,Oceania
+175,Sao Tome and Principe,70.0814,70,Africa
+176,Philippines,70.0671,70,Asia
+177,Yemen,69.5796,70,Asia
+178,Palau,69.4935,69,Oceania
+179,Lao People's Democratic Republic,69.4728,69,Asia
+180,Botswana,69.4289,69,Africa
+181,Senegal,69.1569,69,Africa
+182,Eritrea,69.1512,69,Africa
+183,Mauritania,68.937,69,Africa
+184,Bolivia,68.9049,69,South America
+185,Uganda,68.7077,69,Africa
+186,Gabon,68.6963,69,Africa
+187,Rwanda,68.2415,68,Africa
+188,Timor-Leste,68.1299,68,Asia
+189,Pakistan,67.9371,68,Asia
+190,Ethiopia,67.8758,68,Africa
+191,Malawi,67.7438,68,Africa
+192,Namibia,67.6626,68,Africa
+193,Fiji,67.619,68,Oceania
+194,Micronesia,67.5027,68,Oceania
+195,United Republic of Tanzania,67.4188,67,Africa
+196,Tuvalu,67.4105,67,Oceania
+197,Myanmar,67.302,67,Asia
+198,Comoros,67.2487,67,Africa
+199,Marshall Islands,67.2001,67,Oceania
+200,Kiribati,66.7238,67,Oceania
+201,Sudan,66.7045,67,Africa
+202,Zambia,66.7003,67,Africa
+203,Afghanistan,66.538,67,Asia
+204,South Africa,66.4874,66,Africa
+205,Djibouti,66.4098,66,Africa
+206,Papua New Guinea,66.3853,66,Oceania
+207,Gambia,66.2532,66,Africa
+208,Congo,66.2041,66,Africa
+209,Ghana,65.8857,66,Africa
+210,Haiti,65.2979,65,North America
+211,Angola,64.9848,65,Africa
+212,Guinea-Bissau,64.4108,64,Africa
+213,Eswatini,64.4026,64,Africa
+214,Cameroon,64.2493,64,Africa
+215,Equatorial Guinea,64.1003,64,Africa
+216,Madagascar,64.0374,64,Africa
+217,Kenya,64.0138,64,Africa
+218,Burundi,63.9726,64,Africa
+219,Mozambique,63.9686,64,Africa
+220,Zimbabwe,63.3459,63,Africa
+221,Togo,63.1374,63,Africa
+222,Liberia,62.4713,62,Africa
+223,Nauru,62.4424,62,Oceania
+224,Côte d'Ivoire,62.2782,62,Africa
+225,Democratic Republic of the Congo,62.228,62,Africa
+226,Sierra Leone,62.1503,62,Africa
+227,Niger,61.6597,62,Africa
+228,Burkina Faso,61.4729,61,Africa
+229,Benin,61.1407,61,Africa
+230,Guinea,61.0639,61,Africa
+231,Mali,60.8937,61,Africa
+232,Somalia,59.1083,59,Africa
+233,Lesotho,58.2169,58,Africa
+234,Central African Republic,57.9031,58,Africa
+235,South Sudan,57.8513,58,Africa
+236,Chad,55.4286,55,Africa
+237,Nigeria,54.784,55,Africa
